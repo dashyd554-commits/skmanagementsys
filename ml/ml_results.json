@@ -1,0 +1,566 @@
+[
+    {
+        "title": "Barangay Fiesta Youth Event",
+        "participants": 500,
+        "budget": 330000.0,
+        "predicted_score": 14.68
+    },
+    {
+        "title": "Barangay Fiesta Youth Event",
+        "participants": 500,
+        "budget": 340000.0,
+        "predicted_score": 14.45
+    },
+    {
+        "title": "Mobile Legends Tournament",
+        "participants": 400,
+        "budget": 330000.0,
+        "predicted_score": 11.82
+    },
+    {
+        "title": "Mobile Legends Tournament",
+        "participants": 400,
+        "budget": 340000.0,
+        "predicted_score": 11.74
+    },
+    {
+        "title": "Basketball Finals",
+        "participants": 380,
+        "budget": 330000.0,
+        "predicted_score": 11.4
+    },
+    {
+        "title": "Basketball Finals",
+        "participants": 380,
+        "budget": 340000.0,
+        "predicted_score": 11.29
+    },
+    {
+        "title": "Community Basketball Finals",
+        "participants": 350,
+        "budget": 330000.0,
+        "predicted_score": 10.58
+    },
+    {
+        "title": "Charity Fun Run",
+        "participants": 350,
+        "budget": 330000.0,
+        "predicted_score": 10.58
+    },
+    {
+        "title": "Charity Fun Run",
+        "participants": 350,
+        "budget": 340000.0,
+        "predicted_score": 10.38
+    },
+    {
+        "title": "Community Basketball Finals",
+        "participants": 350,
+        "budget": 340000.0,
+        "predicted_score": 10.38
+    },
+    {
+        "title": "Basketball Tournament Elimination",
+        "participants": 300,
+        "budget": 330000.0,
+        "predicted_score": 9.08
+    },
+    {
+        "title": "Music Festival for Youth",
+        "participants": 300,
+        "budget": 330000.0,
+        "predicted_score": 9.08
+    },
+    {
+        "title": "SK Sports Awards Night",
+        "participants": 300,
+        "budget": 330000.0,
+        "predicted_score": 9.08
+    },
+    {
+        "title": "Basketball Tournament Elimination",
+        "participants": 300,
+        "budget": 340000.0,
+        "predicted_score": 8.85
+    },
+    {
+        "title": "Music Festival for Youth",
+        "participants": 300,
+        "budget": 340000.0,
+        "predicted_score": 8.85
+    },
+    {
+        "title": "SK Sports Awards Night",
+        "participants": 300,
+        "budget": 340000.0,
+        "predicted_score": 8.85
+    },
+    {
+        "title": "Dance Competition",
+        "participants": 260,
+        "budget": 330000.0,
+        "predicted_score": 7.71
+    },
+    {
+        "title": "Dance Competition",
+        "participants": 260,
+        "budget": 340000.0,
+        "predicted_score": 7.61
+    },
+    {
+        "title": "Volleyball Championship",
+        "participants": 250,
+        "budget": 330000.0,
+        "predicted_score": 7.53
+    },
+    {
+        "title": "Volleyball Championship",
+        "participants": 250,
+        "budget": 340000.0,
+        "predicted_score": 7.43
+    },
+    {
+        "title": "Community Feeding Program",
+        "participants": 220,
+        "budget": 330000.0,
+        "predicted_score": 6.64
+    },
+    {
+        "title": "Basketball Friendly Match",
+        "participants": 220,
+        "budget": 330000.0,
+        "predicted_score": 6.64
+    },
+    {
+        "title": "Basketball Friendly Match",
+        "participants": 220,
+        "budget": 340000.0,
+        "predicted_score": 6.5
+    },
+    {
+        "title": "Community Feeding Program",
+        "participants": 220,
+        "budget": 340000.0,
+        "predicted_score": 6.5
+    },
+    {
+        "title": "SK General Assembly",
+        "participants": 210,
+        "budget": 330000.0,
+        "predicted_score": 6.34
+    },
+    {
+        "title": "Volleyball Friendly Match",
+        "participants": 210,
+        "budget": 330000.0,
+        "predicted_score": 6.34
+    },
+    {
+        "title": "Volleyball Friendly Match",
+        "participants": 210,
+        "budget": 340000.0,
+        "predicted_score": 6.19
+    },
+    {
+        "title": "SK General Assembly",
+        "participants": 210,
+        "budget": 340000.0,
+        "predicted_score": 6.19
+    },
+    {
+        "title": "Youth Sports League Opening",
+        "participants": 200,
+        "budget": 330000.0,
+        "predicted_score": 6.03
+    },
+    {
+        "title": "Community Outreach Program",
+        "participants": 200,
+        "budget": 330000.0,
+        "predicted_score": 6.03
+    },
+    {
+        "title": "Youth Sports League Opening",
+        "participants": 200,
+        "budget": 340000.0,
+        "predicted_score": 5.91
+    },
+    {
+        "title": "Community Outreach Program",
+        "participants": 200,
+        "budget": 340000.0,
+        "predicted_score": 5.91
+    },
+    {
+        "title": "Clean-Up Coastal Area",
+        "participants": 190,
+        "budget": 330000.0,
+        "predicted_score": 5.68
+    },
+    {
+        "title": "Clean-Up Coastal Area",
+        "participants": 190,
+        "budget": 340000.0,
+        "predicted_score": 5.59
+    },
+    {
+        "title": "Blood Donation Drive",
+        "participants": 180,
+        "budget": 330000.0,
+        "predicted_score": 5.43
+    },
+    {
+        "title": "Anti-Drug Awareness Campaign",
+        "participants": 180,
+        "budget": 330000.0,
+        "predicted_score": 5.43
+    },
+    {
+        "title": "Anti-Drug Awareness Campaign",
+        "participants": 180,
+        "budget": 340000.0,
+        "predicted_score": 5.3
+    },
+    {
+        "title": "Blood Donation Drive",
+        "participants": 180,
+        "budget": 340000.0,
+        "predicted_score": 5.3
+    },
+    {
+        "title": "Disaster Preparedness Drill",
+        "participants": 170,
+        "budget": 330000.0,
+        "predicted_score": 5.13
+    },
+    {
+        "title": "Clean-Up Drive Phase 2",
+        "participants": 170,
+        "budget": 330000.0,
+        "predicted_score": 5.13
+    },
+    {
+        "title": "Clean-Up Drive Phase 2",
+        "participants": 170,
+        "budget": 340000.0,
+        "predicted_score": 5.01
+    },
+    {
+        "title": "Disaster Preparedness Drill",
+        "participants": 170,
+        "budget": 340000.0,
+        "predicted_score": 5.01
+    },
+    {
+        "title": "Youth Tech Expo",
+        "participants": 160,
+        "budget": 330000.0,
+        "predicted_score": 4.82
+    },
+    {
+        "title": "Zumba Fitness Day",
+        "participants": 160,
+        "budget": 330000.0,
+        "predicted_score": 4.82
+    },
+    {
+        "title": "Zumba Fitness Day",
+        "participants": 160,
+        "budget": 340000.0,
+        "predicted_score": 4.72
+    },
+    {
+        "title": "Youth Tech Expo",
+        "participants": 160,
+        "budget": 340000.0,
+        "predicted_score": 4.72
+    },
+    {
+        "title": "Tree Planting Activity",
+        "participants": 150,
+        "budget": 330000.0,
+        "predicted_score": 4.47
+    },
+    {
+        "title": "Tree Planting Activity",
+        "participants": 150,
+        "budget": 340000.0,
+        "predicted_score": 4.4
+    },
+    {
+        "title": "Drug-Free Barangay Campaign",
+        "participants": 140,
+        "budget": 330000.0,
+        "predicted_score": 4.23
+    },
+    {
+        "title": "Clean River Project",
+        "participants": 140,
+        "budget": 330000.0,
+        "predicted_score": 4.23
+    },
+    {
+        "title": "Environmental Quiz Bee",
+        "participants": 140,
+        "budget": 330000.0,
+        "predicted_score": 4.23
+    },
+    {
+        "title": "Drug-Free Barangay Campaign",
+        "participants": 140,
+        "budget": 340000.0,
+        "predicted_score": 4.12
+    },
+    {
+        "title": "Clean River Project",
+        "participants": 140,
+        "budget": 340000.0,
+        "predicted_score": 4.12
+    },
+    {
+        "title": "Environmental Quiz Bee",
+        "participants": 140,
+        "budget": 340000.0,
+        "predicted_score": 4.12
+    },
+    {
+        "title": "Film Making Contest",
+        "participants": 130,
+        "budget": 330000.0,
+        "predicted_score": 3.92
+    },
+    {
+        "title": "Film Showing Night",
+        "participants": 130,
+        "budget": 330000.0,
+        "predicted_score": 3.92
+    },
+    {
+        "title": "Film Showing Night",
+        "participants": 130,
+        "budget": 340000.0,
+        "predicted_score": 3.83
+    },
+    {
+        "title": "Film Making Contest",
+        "participants": 130,
+        "budget": 340000.0,
+        "predicted_score": 3.83
+    },
+    {
+        "title": "Community Health Checkup",
+        "participants": 120,
+        "budget": 330000.0,
+        "predicted_score": 3.61
+    },
+    {
+        "title": "Barangay Clean-Up Drive",
+        "participants": 120,
+        "budget": 330000.0,
+        "predicted_score": 3.61
+    },
+    {
+        "title": "Barangay Clean-Up Drive",
+        "participants": 120,
+        "budget": 340000.0,
+        "predicted_score": 3.53
+    },
+    {
+        "title": "Community Health Checkup",
+        "participants": 120,
+        "budget": 340000.0,
+        "predicted_score": 3.53
+    },
+    {
+        "title": "Tree Maintenance Program",
+        "participants": 110,
+        "budget": 330000.0,
+        "predicted_score": 3.32
+    },
+    {
+        "title": "Skills Training for Out-of-School Youth",
+        "participants": 110,
+        "budget": 330000.0,
+        "predicted_score": 3.32
+    },
+    {
+        "title": "Skills Training for Out-of-School Youth",
+        "participants": 110,
+        "budget": 340000.0,
+        "predicted_score": 3.25
+    },
+    {
+        "title": "Tree Maintenance Program",
+        "participants": 110,
+        "budget": 340000.0,
+        "predicted_score": 3.25
+    },
+    {
+        "title": "Public Speaking Contest",
+        "participants": 100,
+        "budget": 330000.0,
+        "predicted_score": 3.02
+    },
+    {
+        "title": "Community Garden Project",
+        "participants": 100,
+        "budget": 330000.0,
+        "predicted_score": 3.02
+    },
+    {
+        "title": "Community Garden Project",
+        "participants": 100,
+        "budget": 340000.0,
+        "predicted_score": 2.95
+    },
+    {
+        "title": "Public Speaking Contest",
+        "participants": 100,
+        "budget": 340000.0,
+        "predicted_score": 2.95
+    },
+    {
+        "title": "Mental Health Awareness Talk",
+        "participants": 95,
+        "budget": 330000.0,
+        "predicted_score": 2.84
+    },
+    {
+        "title": "Mental Health Awareness Talk",
+        "participants": 95,
+        "budget": 340000.0,
+        "predicted_score": 2.8
+    },
+    {
+        "title": "Digital Skills Training",
+        "participants": 90,
+        "budget": 330000.0,
+        "predicted_score": 2.72
+    },
+    {
+        "title": "Leadership Camp",
+        "participants": 90,
+        "budget": 330000.0,
+        "predicted_score": 2.72
+    },
+    {
+        "title": "Environmental Awareness Forum",
+        "participants": 90,
+        "budget": 330000.0,
+        "predicted_score": 2.72
+    },
+    {
+        "title": "Leadership Camp",
+        "participants": 90,
+        "budget": 340000.0,
+        "predicted_score": 2.65
+    },
+    {
+        "title": "Environmental Awareness Forum",
+        "participants": 90,
+        "budget": 340000.0,
+        "predicted_score": 2.65
+    },
+    {
+        "title": "Digital Skills Training",
+        "participants": 90,
+        "budget": 340000.0,
+        "predicted_score": 2.65
+    },
+    {
+        "title": "Youth Entrepreneurship Seminar",
+        "participants": 85,
+        "budget": 330000.0,
+        "predicted_score": 2.54
+    },
+    {
+        "title": "Youth Entrepreneurship Seminar",
+        "participants": 85,
+        "budget": 340000.0,
+        "predicted_score": 2.49
+    },
+    {
+        "title": "Youth Clean Energy Seminar",
+        "participants": 80,
+        "budget": 330000.0,
+        "predicted_score": 2.41
+    },
+    {
+        "title": "SK Leadership Training Seminar",
+        "participants": 80,
+        "budget": 330000.0,
+        "predicted_score": 2.41
+    },
+    {
+        "title": "SK Leadership Training Seminar",
+        "participants": 80,
+        "budget": 340000.0,
+        "predicted_score": 2.36
+    },
+    {
+        "title": "Youth Clean Energy Seminar",
+        "participants": 80,
+        "budget": 340000.0,
+        "predicted_score": 2.36
+    },
+    {
+        "title": "SK Election Orientation",
+        "participants": 75,
+        "budget": 330000.0,
+        "predicted_score": 2.25
+    },
+    {
+        "title": "SK Election Orientation",
+        "participants": 75,
+        "budget": 340000.0,
+        "predicted_score": 2.22
+    },
+    {
+        "title": "Youth Coding Workshop",
+        "participants": 70,
+        "budget": 330000.0,
+        "predicted_score": 2.12
+    },
+    {
+        "title": "Youth Coding Workshop",
+        "participants": 70,
+        "budget": 340000.0,
+        "predicted_score": 2.09
+    },
+    {
+        "title": "Street Lighting Project Launch",
+        "participants": 60,
+        "budget": 330000.0,
+        "predicted_score": 1.81
+    },
+    {
+        "title": "First Aid Training",
+        "participants": 60,
+        "budget": 330000.0,
+        "predicted_score": 1.81
+    },
+    {
+        "title": "First Aid Training",
+        "participants": 60,
+        "budget": 340000.0,
+        "predicted_score": 1.77
+    },
+    {
+        "title": "Street Lighting Project Launch",
+        "participants": 60,
+        "budget": 340000.0,
+        "predicted_score": 1.77
+    },
+    {
+        "title": "SK Budget Planning Workshop",
+        "participants": 50,
+        "budget": 330000.0,
+        "predicted_score": 1.55
+    },
+    {
+        "title": "SK Budget Planning Workshop",
+        "participants": 50,
+        "budget": 340000.0,
+        "predicted_score": 1.53
+    }
+]
