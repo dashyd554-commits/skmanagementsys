@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$dbname = "sk_system";
-$user = "root";
-$pass = "";
+$host = "fdb1034.awardspace.net";
+$dbname = "4754025_sksys";
+$user = "4754025_sksys";
+$pass = "Hy?yuOZD6?/JiT{4";
 
 try {
     $conn = new PDO(

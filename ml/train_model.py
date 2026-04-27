@@ -58,3 +58,8 @@ with open("ml_results.json", "w") as f:
     json.dump(results, f, indent=4)
 
 print("ML model trained successfully!")
+
+
+import pickle
+
+pickle.dump(model, open("model.pkl", "wb"))
