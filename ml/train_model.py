@@ -3,6 +3,11 @@ import pandas as pd
 import json
 from sklearn.ensemble import RandomForestRegressor
 
+import pickle
+
+# after training your model
+pickle.dump(model, open("model.pkl", "wb"))
+
 # ---------------- DATABASE CONNECTION ----------------
 conn = pymysql.connect(
     host="localhost",
